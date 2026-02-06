@@ -1,0 +1,1 @@
+function runAway(btn){btn.onmouseover=()=>{btn.style.position='absolute';btn.style.left=(Math.random()*80)+'%';btn.style.top=(Math.random()*80)+'%';};}
